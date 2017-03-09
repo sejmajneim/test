@@ -1,1 +1,1 @@
-1. To jest pierwsza linia kodu
+1. To jest pierwsza linia kodu w tej lini
